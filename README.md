@@ -1,2 +1,3 @@
-# otml2019.github.io
-OTML2019 page
+# OTML2019 Optimal Transport and Machine Learning Workshop
+
+New stuff coming shortly
